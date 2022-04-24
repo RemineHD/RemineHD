@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemineHD&show_icons=true&theme=dark)
 
-[![Stay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RemineHD&theme=dark&layout=compact)](https://github.com/RemineHD/RemineHD)
+[![Stay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elremineh&theme=dark&layout=compact)](https://github.com/RemineHD/RemineHD)
 ### Things I code with
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
