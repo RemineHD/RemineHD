@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/5cff0541-79f3-41e7-b7ee-9edef73a3e99.svg)](https://wakatime.com/@5cff0541-79f3-41e7-b7ee-9edef73a3e99)
 
-<p>Welcome to my page! </br> I'm Remine, a developer from Spain.</p>
+<p>Welcome to my page! </br> I'm Remine, a developer from Spain. (Currently living in Vancouver, British Culumbia, Canada)</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemineHD&show_icons=true&theme=dark)
 
