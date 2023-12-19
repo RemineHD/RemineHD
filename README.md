@@ -4,8 +4,6 @@
 
 <p>Welcome to my page! </br> I'm Remine, a developer from Spain. (Currently living in Vancouver, British Culumbia, Canada)</p>
 
-![elremineh's GitHub stats](https://profile-stats-rnmm.vercel.app/api?username=RemineHD&show_icons=true&theme=dark)
-
 [![elremineh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elremineh&theme=dark&layout=compact)](https://github.com/RemineHD/RemineHD)
 
 ### IDEs that I use
